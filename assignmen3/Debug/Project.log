@@ -1,0 +1,14 @@
+﻿Build started 2016-04-30 오전 11:41:00.
+     1>Project "C:\Users\Jin\Downloads\assign3\assignmen3\Project.vcxproj" on node 2 (Rebuild target(s)).
+     1>_MASM:
+         Assembling AddTwo.asm...
+         cmd.exe /C "C:\Users\Jin\AppData\Local\Temp\tmp093535d3cc4d489d9fd1feb50395a8d6.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\AddTwo.obj" /Fl"Project.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /TaAddTwo.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jin\Downloads\assign3\assignmen3\Debug\Project.exe" /NOLOGO /LIBPATH:c:\Irvine user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jin\Downloads\assign3\assignmen3\Debug\Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\Jin\Downloads\assign3\assignmen3\Debug\Project.lib" /MACHINE:X86 /SAFESEH:NO Debug\AddTwo.obj
+         Project.vcxproj -> C:\Users\Jin\Downloads\assign3\assignmen3\Debug\Project.exe
+     1>Done Building Project "C:\Users\Jin\Downloads\assign3\assignmen3\Project.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.35
